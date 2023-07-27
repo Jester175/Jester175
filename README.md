@@ -8,13 +8,13 @@
   </a> -->
   </a>
     <a href="https://t.me/clowworm">
-    <img alt="telegram URL" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-    <a href="https://www.youtube.com/channel/UCru5FZQN_Xa0tKfrBqUIcng">
-    <img alt="PyLounge Youtube-channel URL" src="https://img.shields.io/badge/PyLounge-FF0000?logo=youtube&logoColor=white&style=for-the-badge">
+    <a href="https://www.linkedin.com/in/nikita-kolesnew/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://habr.com/ru/users/PyLounge/">
-    <img alt="HABR URL" src="https://img.shields.io/badge/PyLounge-619EBB?logo=habr&logoColor=white&style=for-the-badge">
+  <a href="mailto:chattrain.kol7@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
