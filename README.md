@@ -25,8 +25,9 @@
 
 
 :purple_heart: My name is Nikita Kolesnew. Conscientious and attentive frontend developer with over 1 year of experience. I am eager
-to apply my skills in creating various types of software. I have a special interest in
-developing 3D interactive objects.
+to apply my skills in creating various types of software. 
+
+I have a special interest in developing 3D interactive objects.
 
 
 
