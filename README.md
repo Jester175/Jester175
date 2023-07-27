@@ -1,51 +1,75 @@
-# Hey 👋, I'm Nikita Kolesnew! 🦔
+<h1 align="center">Hi there, I'm <a href="#" target="_blank">Nikita</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<img align="right" width="500px" alt="GIF" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif?resize=" />
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" /> -->
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif" /> -->
+<h4 align="center">🚸 Frontend Developer </h4>
+<div align="center">
+<!--   <a href="https://disk.yandex.ru/i/soUuWlOih-ubjA">
+    <img aly="My CV URL" src="https://img.shields.io/badge/CV-orange?&style=for-the-badge">
+  </a> -->
+  </a>
+    <a href="https://t.me/clowworm">
+    <img alt="telegram URL" src="https://img.shields.io/badge/My tg-0088cc?logo=telegram&logoColor=white&style=for-the-badge">
+  </a>
+    <a href="https://www.youtube.com/channel/UCru5FZQN_Xa0tKfrBqUIcng">
+    <img alt="PyLounge Youtube-channel URL" src="https://img.shields.io/badge/PyLounge-FF0000?logo=youtube&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://habr.com/ru/users/PyLounge/">
+    <img alt="HABR URL" src="https://img.shields.io/badge/PyLounge-619EBB?logo=habr&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://github.com/pylounge">
+    <img alt="PyLounge Github URL" src="https://img.shields.io/badge/2nd Github acc-black?logo=github&logoColor=white&style=for-the-badge">
+</div>
 
+---
 
-<a href="https://t.me/zhelukevich" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram"></a>
-<a href="https://www.linkedin.com/in/pavelzhelukevich/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0088cc?style=flat-square&logo=linkedin" alt="Linkedin"></a>
-<a href="https://join.skype.com/invite/zkDRcgWXSFDP" target="_blank"><img src="https://img.shields.io/badge/-Skype-0088cc?style=flat-square&logo=skype" alt="Skype"></a>
-
-## About Me
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif"/> -->
-
-I'm **Pavel Zhelukevich**, a **Front-End Developer** living in **Belarus**.
-
-I am a beginner at frontend developing.
-
-I have an over six months experience in website development.
-
-I’m interested in Front-end development since there is an opportunity to create appealing sites with  user-friendly interfaces.
-
-I make sure to competently complete all of the the assigned tasks and never afraid of new and challenging problems.  One of my goals for the nearest future is to master the frameworks (Vue, Angular).
-
-My strengths include teamwork skills, the desire to be able to find the most effective solutions, the ability to independently search for resources to help solve the problem.
-
-## Tech Stack
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peopl3s&theme=solarized_dark"/>
 
 
-## Stats
 
-![zhelukevich github stats](https://github-readme-stats.vercel.app/api?username=zhelukevich&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhelukevich&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+:purple_heart: My name is Maxim Melnikov. I have been doing programming for more than 5 years. And I really love it. 
 
-<!--
-**zhelukevich/zhelukevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+During this time I managed to try my hand at different areas of development, become a university lecturer and co-created the YouTube IT channel PyLounge.
+
+
+
+:notes: Something about my skills:
+
+
+
+- :heavy_check_mark: Advanced knowledge: Python, Django, Linux, SQL, C/C++.
+  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://cdn.worldvectorlogo.com/logos/amazon-database.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-database.svg" alt="sql" width="40" height="40"/> </a>
+  <a href="https://cdn.worldvectorlogo.com/logos/c.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="40" height="40"/> </a>
+  
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark"/>
+  
+- :heavy_check_mark: Basic knowledge: HTML5/CSS3, JavaScript, Bootstrap, React, Golang, C#
+
+- 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" alt="go" width="40" height="40"/> </a>
+<a href="https://cdn.worldvectorlogo.com/logos/c--4.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="go" width="40" height="40"/> </a>
+
+
+
+- :heavy_check_mark: Experience with: Git, Docker (Docker Compose), MySQL, PostgreSQL, MongoDB, Redis, Celery.
+  
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+   <a href="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="docker" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo" width="40" height="40"/> </a>
+    <a href="https://cdn.worldvectorlogo.com/logos/redis.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="40" height="40"/> </a>
+  
+- :bookmark: Also interested (perhaps I would like to learn): Ruby, Elixir.
+
+:video_game: Welcome back, stranger :video_game:
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Peopl3s&theme=solarized_dark"/>
