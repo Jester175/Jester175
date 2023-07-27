@@ -87,4 +87,4 @@ I have a special interest in developing 3D interactive objects.
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jester175&theme=dark"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jester175&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jester175)](https://github.com/Jester175/github-readme-stats)
