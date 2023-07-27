@@ -16,8 +16,6 @@
   <a href="https://habr.com/ru/users/PyLounge/">
     <img alt="HABR URL" src="https://img.shields.io/badge/PyLounge-619EBB?logo=habr&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://github.com/pylounge">
-    <img alt="PyLounge Github URL" src="https://img.shields.io/badge/2nd Github acc-black?logo=github&logoColor=white&style=for-the-badge">
 </div>
 
 ---
