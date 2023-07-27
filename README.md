@@ -24,9 +24,9 @@
 
 
 
-:purple_heart: My name is Maxim Melnikov. I have been doing programming for more than 5 years. And I really love it. 
-
-During this time I managed to try my hand at different areas of development, become a university lecturer and co-created the YouTube IT channel PyLounge.
+:purple_heart: My name is Nikita Kolesnew. Conscientious and attentive frontend developer with over 1 year of experience. I am eager
+to apply my skills in creating various types of software. I have a special interest in
+developing 3D interactive objects.
 
 
 
