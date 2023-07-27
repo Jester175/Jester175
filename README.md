@@ -35,7 +35,7 @@ I have a special interest in developing 3D interactive objects.
 
 
 
-- :heavy_check_mark: Advanced knowledge: Python, Django, Linux, SQL, C/C++.
+- :heavy_check_mark: Basic knowledge: Python, Django, Linux, SQL, C/C++.
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
@@ -45,7 +45,7 @@ I have a special interest in developing 3D interactive objects.
   
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark"/>
   
-- :heavy_check_mark: Basic knowledge: HTML5/CSS3, JavaScript, Bootstrap, React, Golang, C#
+- :heavy_check_mark: Advanced knowledge: HTML5/CSS3, JavaScript, Bootstrap, React, Golang, C#
 
 - 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
