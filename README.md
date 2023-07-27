@@ -7,13 +7,13 @@
     <img aly="My CV URL" src="https://img.shields.io/badge/CV-orange?&style=for-the-badge">
   </a> -->
   </a>
-    <a href="https://t.me/clowworm">
+    <a href="https://t.me/clowworm" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-    <a href="https://www.linkedin.com/in/nikita-kolesnew/">
+    <a href="https://www.linkedin.com/in/nikita-kolesnew/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:chattrain.kol7@gmail.com">
+  <a href="mailto:chattrain.kol7@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
