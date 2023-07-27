@@ -1,6 +1,6 @@
 # Hey 👋, I'm Nikita Kolesnew! 🦔
 
-<img align="right" width="200px" alt="GIF" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif?resize=" />
+<img align="right" width="400px" alt="GIF" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif?resize=" />
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" /> -->
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif" /> -->
 
