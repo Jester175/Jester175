@@ -8,7 +8,7 @@
   </a> -->
   </a>
     <a href="https://t.me/clowworm">
-    <img alt="telegram URL" src="https://img.shields.io/badge/My tg-0088cc?logo=telegram&logoColor=white&style=for-the-badge">
+    <img alt="telegram URL" src="https://user-images.githubusercontent.com/46340124/152658530-81bf7415-e00d-4461-9081-b4e7235a05be.png">
   </a>
     <a href="https://www.youtube.com/channel/UCru5FZQN_Xa0tKfrBqUIcng">
     <img alt="PyLounge Youtube-channel URL" src="https://img.shields.io/badge/PyLounge-FF0000?logo=youtube&logoColor=white&style=for-the-badge">
