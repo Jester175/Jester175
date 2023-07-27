@@ -58,6 +58,8 @@ I have a special interest in developing 3D interactive objects.
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="threejs" alt="threejs" width="40" height="40"/>&nbsp
 </div>
+<br>
+<br>
   
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jester175&theme=dark"/>
 
