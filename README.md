@@ -34,7 +34,19 @@ I have a special interest in developing 3D interactive objects.
 :notes: Something about my skills:
 
 
-- :heavy_check_mark: Advanced knowledge: HTML5/CSS3, JavaScript, Bootstrap, React, Golang, C#
+
+- :heavy_check_mark: Advanced knowledge: Python, Django, Linux, SQL, C/C++.
+  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://cdn.worldvectorlogo.com/logos/amazon-database.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-database.svg" alt="sql" width="40" height="40"/> </a>
+  <a href="https://cdn.worldvectorlogo.com/logos/c.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="40" height="40"/> </a>
+  
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark"/>
+  
+- :heavy_check_mark: Basic knowledge: HTML5/CSS3, JavaScript, Bootstrap, React, Golang, C#
+
 - 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -44,15 +56,6 @@ I have a special interest in developing 3D interactive objects.
 <a href="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://cdn.worldvectorlogo.com/logos/c--4.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="go" width="40" height="40"/> </a>
 
-- :heavy_check_mark: Basic knowledge: Python, Django, Linux, SQL, C/C++.
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://cdn.worldvectorlogo.com/logos/amazon-database.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-database.svg" alt="sql" width="40" height="40"/> </a>
-  <a href="https://cdn.worldvectorlogo.com/logos/c.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="40" height="40"/> </a>
-  
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark"/>
 
 
 - :heavy_check_mark: Experience with: Git, Docker (Docker Compose), MySQL, PostgreSQL, MongoDB, Redis, Celery.
