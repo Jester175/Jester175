@@ -87,3 +87,4 @@ I have a special interest in developing 3D interactive objects.
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Peopl3s&theme=solarized_dark"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jester175&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
