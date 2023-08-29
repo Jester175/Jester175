@@ -3,9 +3,6 @@
 
 <h4 align="center">🚸 Frontend Developer </h4>
 <div align="center">
-<!--   <a href="https://disk.yandex.ru/i/soUuWlOih-ubjA">
-    <img aly="My CV URL" src="https://img.shields.io/badge/CV-orange?&style=for-the-badge">
-  </a> -->
   </a>
     <a href="https://t.me/clowworm" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
