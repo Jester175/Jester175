@@ -84,7 +84,7 @@ I have a special interest in developing 3D interactive objects.
 <br>
 <br>
   
-- :bookmark: Also interested (perhaps I would like to learn): Rust, PHP.
+- :bookmark: Also interested (perhaps I would like to learn): Rust, ClojureScript.
 <div>
     <img src="https://rust-lang.org/logos/rust-logo-512x512.png" title="rust" alt="rust" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/clojurescript/clojurescript-original.svg" title="clojurescript" alt="clojurescript" width="40" height="40"/>&nbsp
