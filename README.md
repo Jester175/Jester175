@@ -30,7 +30,7 @@ I have a special interest in developing 3D interactive objects.
 
 
 
-- :heavy_check_mark: Advanced knowledge: HTML5, CSS3 (SASS), JavaScript, React, TypeScript, Webpack/Gulp, Redux (Thunk), Three.js
+- :heavy_check_mark: Advanced knowledge: HTML5, CSS3 (SASS), JavaScript, React, NextJS, TypeScript, Webpack/Gulp, Redux (Thunk), Three.js
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -51,7 +51,7 @@ I have a special interest in developing 3D interactive objects.
 </div>
 <br>
 
-- :heavy_check_mark: Basic knowledge: Node JS, Express, MongoDB, NextJS, C/C#, ThreeJS
+- :heavy_check_mark: Basic knowledge: NodeJS, Express, NestJS, MongoDB, C/C#, ThreeJS
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
