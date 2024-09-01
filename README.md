@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/41ae747f-344d-4a01-9018-29a9a66cf62d)<h1 align="center">Hi there, I'm <a href="#" target="_blank">Nikita</a> 
+<h1 align="center">Hi there, I'm <a href="#" target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h4 align="center">🚸 Frontend Developer </h4>
