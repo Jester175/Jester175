@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">Nikita</a> 
+![image](https://github.com/user-attachments/assets/41ae747f-344d-4a01-9018-29a9a66cf62d)<h1 align="center">Hi there, I'm <a href="#" target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h4 align="center">🚸 Frontend Developer </h4>
@@ -86,7 +86,7 @@ I have a special interest in developing 3D interactive objects.
   
 - :bookmark: Also interested (perhaps I would like to learn): Rust, PHP.
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-line.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp
+    <img src="https://rust-lang.org/logos/rust-logo-512x512.png" title="rust" alt="rust" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/clojurescript/clojurescript-original.svg" title="clojurescript" alt="clojurescript" width="40" height="40"/>&nbsp
 </div>
 
